@@ -1,6 +1,4 @@
 [README (4).md](https://github.com/user-attachments/files/33669951/README.4.md)
-# Assignment-9-Visualization-in-R-Base-Graphics-Lattice-and-ggplot2
-Base R vs. lattice vs. ggplot2 visualizations of U.S. investment data (USInvest, 1968–1982) for LIS4370.
 # LIS4370 – Assignment 9: Base R vs. Lattice vs. ggplot2
 
 This assignment compares R's three main graphics systems on the same data.
